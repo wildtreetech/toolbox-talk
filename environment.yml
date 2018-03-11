@@ -1,0 +1,17 @@
+name: toolbox-talk
+channels:
+- conda-forge
+- defaults
+dependencies:
+- ipywidgets=7.1.2
+- keras=2.0.9
+- matplotlib=2.2.0
+- nbdime=0.4.1
+- numpy=1.14.1
+- pandas=0.22.0
+- pillow=5.0.0
+- scikit-learn=0.19.1
+- scipy=1.0.0
+- pip:
+  - papermill==0.12.4
+
