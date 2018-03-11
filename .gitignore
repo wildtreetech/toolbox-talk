@@ -1,0 +1,5 @@
+*.h5
+data/shipsnet.json
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
